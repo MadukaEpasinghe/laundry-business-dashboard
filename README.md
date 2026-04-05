@@ -36,7 +36,7 @@ An interactive dashboard was built to:
 ---
 
 ## 📸 Dashboard Preview
-(Add images here)
+(https://github.com/MadukaEpasinghe/laundry-business-dashboard/tree/main/Images)
 
 ---
 
