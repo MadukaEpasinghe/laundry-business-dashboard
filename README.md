@@ -23,9 +23,9 @@ An interactive dashboard was built to:
 ---
 
 ## 📊 Key Insights
-- Peak revenue occurs on weekends
-- A small number of services generate the majority of revenue
-- Customer activity varies significantly by time period
+- Company earns more in mid populates cities
+- Return on marketing investment is highest at mid populated city
+- Company should invest more on marketing in mid populated cities 
 
 ---
 
